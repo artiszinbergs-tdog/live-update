@@ -1,10 +1,10 @@
 {
 	"events": [{
-		"name": "double xp",
+		"name": "test",
 		"index": 1,
 		"enabled": false,
-		"dev_enabled": true,
-		"message": "Double xp {0}",
+		"dev_enabled": false,
+		"message": "Test {0} {1}",
 		"database": [{
 			"key": "special_halloween",
 			"value": "true"
