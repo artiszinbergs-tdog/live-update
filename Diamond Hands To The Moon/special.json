@@ -9,5 +9,15 @@
 			"key": "special_halloween",
 			"value": "true"
 		}]
+	}, {
+		"name": "test",
+		"index": 3,
+		"enabled": false,
+		"dev_enabled": true,
+		"message": "${{SPECIAL.HALLOWEEN}}",
+		"database": [{
+			"key": "special_halloween",
+			"value": "true"
+		}]
 	}]
 }
