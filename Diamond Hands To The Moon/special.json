@@ -1,0 +1,11 @@
+{
+	"events": [{
+		"name": "halloween",
+		"enabled": false,
+		"dev_enabled": true,
+		"message": "SPECIAL.HALLOWEEN",
+		"database": [{
+			"special_halloween": "true"
+		}]
+	}]
+}
