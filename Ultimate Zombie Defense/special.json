@@ -6,8 +6,16 @@
 		"dev_enabled": true,
 		"message": "${{SPECIAL.HALLOWEEN}}",
 		"database": [{
-			"key": "special_halloween",
-			"value": "true"
-		}]
+				"key": "special_halloween",
+				"value": "true"
+			},
+			{
+				"key": "external-xp-multiplier",
+				"value": "2"
+			}
+		],
+		"formats": [
+			"2.0x"
+		]
 	}]
 }
