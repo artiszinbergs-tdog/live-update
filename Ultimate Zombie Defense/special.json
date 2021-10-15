@@ -4,7 +4,6 @@
 		"index": 1,
 		"enabled": false,
 		"dev_enabled": true,
-		"message": "${{SPECIAL.HALLOWEEN}}",
 		"database": [{
 				"key": "special_halloween",
 				"value": "true"
@@ -13,9 +12,6 @@
 				"key": "game_external-xp-multiplier",
 				"value": "2"
 			}
-		],
-		"formats": [
-			"2x"
 		]
 	}]
 }
