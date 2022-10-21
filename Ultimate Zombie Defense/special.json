@@ -2,7 +2,7 @@
 	"events": [{
 		"name": "halloween",
 		"index": 1,
-		"enabled": false,
+		"enabled": true,
 		"dev_enabled": true,
 		"message": "${{SPECIAL.HALLOWEEN}}",
 		"database": [{
