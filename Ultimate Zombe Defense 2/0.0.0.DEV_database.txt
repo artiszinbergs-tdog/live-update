@@ -1,8 +1,8 @@
 {
     "entries": [
         {
-            "key": "game_test",
-            "value": "test_value",
+            "key": "game_intro-video_test-01",
+            "value": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
             "type": "string"
         },
         {
