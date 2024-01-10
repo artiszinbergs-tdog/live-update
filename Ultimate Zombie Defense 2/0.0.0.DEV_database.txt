@@ -4,15 +4,6 @@
             "key": "game_intro-video_test-01",
             "value": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "type": "string"
-        },
-        {
-            "key": "game_intro-video_test-02",
-            "value": "https://cdn.akamai.steamstatic.com/steam/apps/256803006/movie480_vp9.webm",
-            "type": "string"
-        },
-        {
-            "key": "game_max-zombies",
-            "value": "100"
         }
     ]
 }
