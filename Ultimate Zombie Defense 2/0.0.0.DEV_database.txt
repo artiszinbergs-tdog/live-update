@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "game_intro-video_test-01",
-            "value": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+            "value": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "type": "string"
         },
         {
