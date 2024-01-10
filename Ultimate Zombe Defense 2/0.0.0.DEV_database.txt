@@ -1,0 +1,13 @@
+{
+    "entries": [
+        {
+            "key": "game_test",
+            "value": "test_value",
+            "type": "string"
+        },
+        {
+            "key": "game_max-zombies",
+            "value": "100"
+        }
+    ]
+}
