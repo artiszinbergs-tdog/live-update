@@ -1,7 +1,7 @@
 {
     "entries": [
         {
-            "key": "game_intro-video_test-01",
+            "key": "dev_game_intro-video_test-01",
             "value": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
             "type": "string"
         }
