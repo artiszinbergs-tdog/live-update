@@ -1,0 +1,9 @@
+{
+    "entries": [
+        {
+            "key": "game_is-pirated",
+            "value": "true",
+            "type": "float"
+        }
+    ]
+}
