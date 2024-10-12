@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {
-            "key": "game_zombie-reward_modifier_normal-hit",
-            "value": "0.5",
-            "type": "float"
-        }
-    ]
-}

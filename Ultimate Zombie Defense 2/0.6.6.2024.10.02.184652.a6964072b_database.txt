@@ -1,7 +1,7 @@
 {
     "entries": [
         {
-            "key": "is-pirated",
+            "key": "game_is-pirated",
             "value": "true"
         }
     ]
