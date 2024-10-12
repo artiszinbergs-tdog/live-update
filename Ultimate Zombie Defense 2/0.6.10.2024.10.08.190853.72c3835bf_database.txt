@@ -1,0 +1,8 @@
+{
+    "entries": [
+        {
+            "key": "is-pirated",
+            "value": "true"
+        }
+    ]
+}
